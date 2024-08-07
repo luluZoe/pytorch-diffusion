@@ -1,3 +1,4 @@
+# test
 import torch 
 
 IMG_SIZE=48   # 图像尺寸
